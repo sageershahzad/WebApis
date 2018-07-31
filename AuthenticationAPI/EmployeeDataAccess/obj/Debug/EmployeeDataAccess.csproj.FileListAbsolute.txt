@@ -1,0 +1,12 @@
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WebForms\HelloWebAPI\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WebForms\HelloWebAPI\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WebForms\HelloWebAPI\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WebForms\HelloWebAPI\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WebForms\HelloWebAPI\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WebForms\HelloWebAPI\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WebForms\HelloWebAPI\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WebForms\HelloWebAPI\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WebForms\HelloWebAPI\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WebForms\HelloWebAPI\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WebForms\HelloWebAPI\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Project\ASP.NET\WebForms\HelloWebAPI\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
